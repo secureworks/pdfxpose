@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Tool: pdfxpose - A Security tool for detecting suspicious PDF modifications commonly found in BEC
+# Tool: pdfxpose - A security tool for detecting suspicious PDF modifications commonly found in BEC
 # Author: James Bettke
 # Copyright (C) 2016 SecureWorks
 

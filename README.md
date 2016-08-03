@@ -1,7 +1,7 @@
 pdfxpose
 =====
 
-pdfxpose - A Security tool for detecting suspicious PDF modifications commonly found in BEC
+pdfxpose - A security tool for detecting suspicious PDF modifications commonly found in BEC
 
 ## Overview
 While investigating Business Email Compromise (BEC), suspicious indicators were discovered in a majority of the PDFs encountered. This tool was developed to detect PDFs altered by threat actors engaging in BEC.
