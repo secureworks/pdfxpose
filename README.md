@@ -6,6 +6,8 @@ pdfxpose - A security tool for detecting suspicious PDF modifications commonly f
 ## Overview
 While investigating Business Email Compromise (BEC), suspicious indicators were discovered in a majority of the PDFs encountered. This tool was developed to detect PDFs altered by threat actors engaging in BEC.
 
+More information about the investigation can be found here: https://www.secureworks.com/research/wire-wire-a-west-african-cyber-threat
+
 ## Dependencies
 Pdfxpose depends on poppler-utils 0.41.0+ for processing PDFs and Tesseract for performing Optical Character Recognition (OCR) on images. Both can be installed from the Ubuntu repositories.
 
